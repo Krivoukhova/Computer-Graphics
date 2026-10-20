@@ -11,7 +11,7 @@ class DrawFigure:
 
         self.source_image = None
         self.result_image = None
-        self.photo_source = None
+        self.photo_source = None 
         self.photo_result = None
 
         self.create_widgets()
